@@ -7,7 +7,7 @@ I'm Dev!
 
 - 💬 Ask me about anything relevant to Web Development.
 - 📝 I regularly write articles on [Medium](https://dharidwan.medium.com/)
-- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](mohridwan1707@gmail.com), [Instagram](https://instagram.com/dharidwan), [LinkedId](https://www.linkedin.com/in/dharidwanid/).
+- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](mohridwan1707@gmail.com), [Instagram](https://instagram.com/dharidwan), [LinkedIn](https://www.linkedin.com/in/dharidwanid/).
 
 Less talking, Let's get coding!
 
@@ -16,6 +16,7 @@ Less talking, Let's get coding!
 
 <a href="https://instagram.com/dharidwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeuix" height="25" width="25" /></a>
 <a href="https://medium.com/@dharidwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devirukmanab" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/dharidwanid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@dharidwan" height="25" width="25" /></a>
 </p>
 
 
