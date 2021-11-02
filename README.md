@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
-I'm Dev! 👨‍💻
-## I'm a Front End Developer
+## I'm a Front End Developer 👨‍💻
 
 - 💬 Ask me about anything relevant to Web Development.
 - 📝 I regularly write articles on [Medium](https://dharidwan.medium.com/)
