@@ -26,6 +26,7 @@ Less talking, Let's get coding!
 
 - [Memahami Konsep Logika AND dan OR di Dunia Programming](https://dharidwan.medium.com/memahami-konsep-logika-and-dan-or-di-dunia-programming-dfd559352d78)
 - [Memahami Konsep Spread Operator pada JavaScript es6](https://dharidwan.medium.com/memahami-konsep-spread-operator-pada-javascript-es6-fccf8c2f3f75)
+- [Mengenal Konsep Destructuring pada JavaScript es6](https://dharidwan.medium.com/mengenal-konsep-destructuring-pada-javascript-es6-1cbda05dd90a)
 
 
 <!-- BLOG-POST-LIST:END -->
