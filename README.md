@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [Medium](https://dharidwan.medium.com/)
 - 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](mohridwan1707@gmail.com), [Instagram](https://instagram.com/dharidwan), [LinkedIn](https://www.linkedin.com/in/dharidwanid/).
 
-Less talking, Let's get coding!
+Let's get coding!
 
 ### Connect with me:
 
