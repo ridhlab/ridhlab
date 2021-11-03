@@ -30,6 +30,8 @@ Less talking, Let's get coding!
 <!-- BLOG-POST-LIST:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridlwan17&&hide=contribs,prs&show_icons=true&theme=tokyonightn" alt="ridlwan17" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=nightowl&locale=en" alt="ridlwan17" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridlwan17&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ridlwan17" /></p>
 
 
