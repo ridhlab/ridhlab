@@ -1,17 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Muhammad Ridwan👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
-## I'm a Front End Developer 👨‍💻
-
-- 💬 Ask me about anything relevant to Web Development.
-- 📝 I regularly write articles on [Medium](https://dharidwan.medium.com/)
-- 📫 Do you wanna have a collaboration or business inquires with me? Hit me via: [Gmail](mohridwan1707@gmail.com), [Instagram](https://instagram.com/dharidwanid), [LinkedIn](https://www.linkedin.com/in/dharidwanid/).
-
-Let's get coding!
+I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). i'm Interest to manipulate data and love to solve coding problem in platformm like [Hackerrank](https://www.hackerrank.com/) to improve my logic and problem solving skill. I'm regularly write articles on [Medium](https://dharidwan.medium.com/)
 
 ### Connect with me:
-
 
 <a href="https://instagram.com/dharidwanid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeuix" height="25" width="25" /></a>
 <a href="https://medium.com/@dharidwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devirukmanab" height="25" width="25" /></a>
