@@ -30,7 +30,7 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm a
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=nightowl&locale=en" alt="ridlwan17" /></p>
 
-[Ridwan Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=ridlwan17)](https://github.com/anuraghazra/github-readme-stats)
+[Ridwan Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=ridlwan17)(https://github.com/anuraghazra/github-readme-stats)
 
 
 
