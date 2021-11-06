@@ -28,7 +28,7 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm a
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=buefy&locale=en" alt="ridlwan17" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
 
 
 
