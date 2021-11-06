@@ -4,11 +4,16 @@
 
 I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm also have interest to solve coding problem in platform like [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://www.leetcode.com) or [ProjectEuler](https://www.projecteuler.net) to improve my logic and problem solving skill. I'm regularly write articles on [Medium](https://dharidwan.medium.com/)
 
-### Connect with me:
-
-<a href="https://instagram.com/dharidwanid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veeuix" height="25" width="25" /></a>
-<a href="https://medium.com/@dharidwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@devirukmanab" height="25" width="25" /></a>
-<a href="https://www.linkedin.com/in/dharidwanid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@dharidwan" height="25" width="25" /></a>
+<p align='center'>
+<a href="https://www.linkedin.com/in/dharidwanid/" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@dharidwan" target="blank">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/dharidwanid" target="blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
 </p>
 
 
