@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
-I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm also have interest to solve coding problem in platform like [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://www.leetcode.com) or [ProjectEuler](https://www.projecteuler.net) to improve my logic and problem solving skill. I'm regularly write articles on [Medium](https://dharidwan.medium.com/)
+I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm interest in programming and having curiosity about technology and programming. I'm regularly write articles on [Medium](https://dharidwan.medium.com/)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/dharidwanid/" target="blank">
