@@ -20,10 +20,11 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm i
 ### 📕 Latest Article Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ForEach, Map, Filter. Apa Bedanya?](https://dharidwan.medium.com/foreach-map-filter-apa-bedanya-belajar-javascript-es6-406dec70bdb9)
 - [Memahami Konsep JSX dan Aturan-Aturan Penulisannya di ReactJS](https://dharidwan.medium.com/memahami-konsep-jsx-dan-aturan-aturan-penulisannya-di-reactjs-b3a62c3d1f41)
 - [Mengenal Konsep Destructuring pada JavaScript es6](https://dharidwan.medium.com/mengenal-konsep-destructuring-pada-javascript-es6-1cbda05dd90a)
 - [Memahami Konsep Spread Operator pada JavaScript es6](https://dharidwan.medium.com/memahami-konsep-spread-operator-pada-javascript-es6-fccf8c2f3f75)
-- [Memahami Konsep Logika AND dan OR di Dunia Programming](https://dharidwan.medium.com/memahami-konsep-logika-and-dan-or-di-dunia-programming-dfd559352d78)
+
 
 <!-- BLOG-POST-LIST:END -->
 
