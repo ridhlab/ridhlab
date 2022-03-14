@@ -16,6 +16,7 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm i
 </a>&nbsp;&nbsp;
 </p>
 
+![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
 
 ### 📕 Latest Article Posts
 
