@@ -15,8 +15,8 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm i
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+<p align="center">![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)</p>
 
-![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
 
 ### 📕 Latest Article Posts
 
