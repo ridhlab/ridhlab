@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
+![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
+
 I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm interest in programming and having curiosity about technology and programming. I'm regularly write articles on [Medium](https://dharidwan.medium.com/).
 
 <p align='center'>
@@ -15,7 +17,7 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm i
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-<p align="center">![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)</p>
+
 
 
 ### 📕 Latest Article Posts
@@ -28,7 +30,6 @@ I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm i
 
 
 <!-- BLOG-POST-LIST:END -->
-
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
 
