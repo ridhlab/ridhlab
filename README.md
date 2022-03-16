@@ -4,7 +4,7 @@
 
 ![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
 
-I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm interest in programming and having curiosity about technology and programming. I'm regularly write articles on [Medium](https://dharidwan.medium.com/).
+I'm Front End Developer which is using [ReactJS](https://www.reactjs.org). I'm interest in programming and having curiosity about programming also implemention of technology. I'm regularly write articles on [Medium](https://dharidwan.medium.com/).
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/dharidwanid/" target="blank">
