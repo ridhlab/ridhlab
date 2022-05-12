@@ -4,7 +4,7 @@
 
 ![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
 
-Code learner. Have interest in programming and also having curiosity about implemention of technology. Regularly write articles on [Medium](https://dharidwan.medium.com/).
+Code learner. Have interest in programming and also having curiosity about implemention of technology.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/dharidwanid/" target="blank">
