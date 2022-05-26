@@ -19,16 +19,6 @@ Code learner. Have interest in programming and also having curiosity about imple
 </p>
 
 
-
-### 📕 Latest Article Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [ForEach, Map, Filter. Apa Bedanya?](https://dharidwan.medium.com/foreach-map-filter-apa-bedanya-belajar-javascript-es6-406dec70bdb9)
-- [Memahami Konsep JSX dan Aturan-Aturan Penulisannya di ReactJS](https://dharidwan.medium.com/memahami-konsep-jsx-dan-aturan-aturan-penulisannya-di-reactjs-b3a62c3d1f41)
-- [Mengenal Konsep Destructuring pada JavaScript es6](https://dharidwan.medium.com/mengenal-konsep-destructuring-pada-javascript-es6-1cbda05dd90a)
-- [Memahami Konsep Spread Operator pada JavaScript es6](https://dharidwan.medium.com/memahami-konsep-spread-operator-pada-javascript-es6-fccf8c2f3f75)
-
-
 <!-- BLOG-POST-LIST:END -->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
