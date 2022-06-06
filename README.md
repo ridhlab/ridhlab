@@ -6,6 +6,7 @@
 
 Code learner. Have interest in programming and also having curiosity about implemention of technology.
 
+<!-- Social Media Start -->
 <p align='center'>
 <a href="https://www.linkedin.com/in/dharidwanid/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +18,9 @@ Code learner. Have interest in programming and also having curiosity about imple
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
+<!-- Social Media End -->
 
-
-<!-- BLOG-POST-LIST:END -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
 
