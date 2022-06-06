@@ -18,9 +18,8 @@ Code learner. Have interest in programming and also having curiosity about imple
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-<!-- Social Media End -->
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- Social Media End -->
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ridlwan17&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
 
