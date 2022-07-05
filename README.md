@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
-![badge-codewars](https://www.codewars.com/users/ridlwan17/badges/small)
+![badge-codewars](https://www.codewars.com/users/ridhlab/badges/small)
 
 Code learner. Have interest in programming and also having curiosity about implemention of technology.
 
