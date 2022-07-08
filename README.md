@@ -14,7 +14,7 @@ Code learner. Have interest in programming and also having curiosity about imple
 <a href="https://medium.com/@dharidwan" target="blank">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/dharidwanid" target="blank">
+<a href="https://instagram.com/ridhwanid" target="blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
