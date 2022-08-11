@@ -4,7 +4,7 @@
 
 ![badge-codewars](https://www.codewars.com/users/ridhlab/badges/small)
 
-Code learner. Have interest in programming and also having curiosity about implemention of technology.
+Code crafter. Have interest in programming and also having curiosity about implemention of technology.
 
 <!-- Social Media Start -->
 <p align='center'>
