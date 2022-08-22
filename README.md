@@ -21,8 +21,6 @@ Code crafter. Have interest in programming and also having curiosity about imple
 
 <!-- Social Media End -->
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ridhlab&show_icons=true&theme=react&locale=en" alt="ridlwan17" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhlab&show_icons=true&locale=en&layout=compact&theme=react" alt="ridlwan17" /></p>
 
 
