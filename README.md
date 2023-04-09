@@ -1,10 +1,7 @@
-## Hi there, I'm Muhammad Ridwan👋 
+## A Wonderer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridlwan17&label=Profile%20views&color=0e75b6&style=flat" alt="ridlwan17" /> </p>
 
 ![badge-codewars](https://www.codewars.com/users/ridhlab/badges/small)
-
-Code crafter. Have interest in programming and also having curiosity about implemention of technology.
 
 <!-- Social Media Start -->
 <p align='center'>
