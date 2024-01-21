@@ -11,7 +11,7 @@
 <a href="https://medium.com/@ridhwanid" target="_blank">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://instagram.com/ridhuan.id" target="_blank">
+<a href="https://instagram.com/m.riduwan__" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://id.quora.com/profile/Muhammad-Ridwan-123" target="_blank">
